@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headerlogo {
+    width: 40px;
+}
+ .headermain {
+    
+    align-items:center;
+    flex-direction:row;
+    justify-content: space-between;
+    marginr: 10px;
+    position: fixed;
+
+ }
